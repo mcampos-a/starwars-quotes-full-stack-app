@@ -12,8 +12,7 @@ Welcome to my corner of the internet. This project was born for my love of Starw
 To build this app I used vanilla JS for the client side and node.js with Express to build the server. It was really fun using mongoDB to add a remote storage component to this project. I got a chance to practice solid CRUD methods.
 
 
-## Optimizations
-*(optional)*
+## Optimizations:
 
 I had a lot of fun at the first pass to this project. I want to comeback and add some extra functionality. I want to add a button that removes the last quote to help the user clear the quote board. It would be cool to add a list of Starwars characters images that display next to the quotes.
 
